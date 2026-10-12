@@ -1,0 +1,20 @@
+
+================= PROJECT SUMMARY =================
+Best Classifier: Logistic Regression
+Best Regressor : Random Forest
+---------------------------------------------------
+Classification Results:
+              Model  Accuracy       F1  ROC-AUC
+Logistic Regression  0.927222 0.958134 0.971666
+      Random Forest  0.908889 0.948428 0.957475
+           LightGBM  0.914444 0.950862 0.952990
+            XGBoost  0.913333 0.950382 0.952795
+      Decision Tree  0.893333 0.938025 0.867269
+---------------------------------------------------
+Regression Results:
+        Model       MAE      RMSE       R2
+Random Forest  7.951574 10.211917 0.624144
+      XGBoost  8.385324 10.748224 0.583629
+Decision Tree  8.376929 10.832631 0.577064
+       Linear 10.074475 12.472042 0.439362
+===================================================
