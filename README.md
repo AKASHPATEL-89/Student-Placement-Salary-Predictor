@@ -11,7 +11,7 @@
 [![LightGBM](https://img.shields.io/badge/LightGBM-4.0-02569B)](https://lightgbm.readthedocs.io/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-[🌐 Live Demo]((https://student-placement-salary-predictor-89.streamlit.app/)) · [📊 Dataset](student_placement_salary_elite_v2.csv) · [🐛 Report Bug](https://github.com/AKASHPATEL-89/Student-Placement-Salary-Predictor/issues)
+[🌐 Live Demo](https://student-placement-salary-predictor-89.streamlit.app/) · [📊 Dataset](student_placement_salary_elite_v2.csv) · [🐛 Report Bug](https://github.com/AKASHPATEL-89/Student-Placement-Salary-Predictor/issues)
 
 </div>
 
@@ -20,7 +20,7 @@
 ## 📖 Table of Contents
 
 - [Overview](#-overview)
-- [Live Demo]([#-(https://student-placement-salary-predictor-89.streamlit.app/))
+- [Live Demo](#-live-demo)
 - [Features](#-features)
 - [Dataset](#-dataset)
 - [Methodology](#-methodology)
@@ -57,7 +57,7 @@ The pipeline covers:
 
 ## 🌐 Live Demo
 
-🔗 **[Try the app live →](https://your-app.streamlit.app)**
+🔗 **[Try the app live →](https://student-placement-salary-predictor-89.streamlit.app/)**
 
 > Enter any student profile and get instant placement prediction with a probability gauge, expected salary, and personalized improvement tips.
 
@@ -276,6 +276,7 @@ Student-Placement-Salary-Predictor/
 ├── 📄 test_model.py                   # Model sanity checker
 ├── 📄 verify_calibration.py           # Calibration verification
 ├── 📄 requirements.txt                # Python dependencies
+├── 📄 runtime.txt                     # Python version for Streamlit Cloud
 ├── 📄 README.md                       # This file
 ├── 📄 .gitignore
 ├── 📄 student_placement_salary_elite_v2.csv
