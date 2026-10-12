@@ -11,7 +11,7 @@
 [![LightGBM](https://img.shields.io/badge/LightGBM-4.0-02569B)](https://lightgbm.readthedocs.io/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-[🌐 Live Demo]([https://your-app.streamlit.app](https://student-placement-salary-predictor-89.streamlit.app/)) · [📊 Dataset](student_placement_salary_elite_v2.csv) · [🐛 Report Bug](https://github.com/AKASHPATEL-89/Student-Placement-Salary-Predictor/issues)
+[🌐 Live Demo]((https://student-placement-salary-predictor-89.streamlit.app/)) · [📊 Dataset](student_placement_salary_elite_v2.csv) · [🐛 Report Bug](https://github.com/AKASHPATEL-89/Student-Placement-Salary-Predictor/issues)
 
 </div>
 
@@ -20,7 +20,7 @@
 ## 📖 Table of Contents
 
 - [Overview](#-overview)
-- [Live Demo]([#-live-demo](https://student-placement-salary-predictor-89.streamlit.app/))
+- [Live Demo]([#-(https://student-placement-salary-predictor-89.streamlit.app/))
 - [Features](#-features)
 - [Dataset](#-dataset)
 - [Methodology](#-methodology)
